@@ -4,3 +4,5 @@
 - [Book Source Code](https://github.com/Apress/essential-typescript-4)
 
 ## Basic Todo App in TypeScript
+
+[TypeScript Presentation for Class 4](https://docs.google.com/presentation/d/1eZxsv6O96GOANxOnREJVolMAqC0OmF4hv5XAloMrQLw/edit)
