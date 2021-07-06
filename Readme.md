@@ -10,3 +10,10 @@
 Reading Material:
 
 - [A simple Todo App in TypeScript](https://github.com/panacloud/bootcamp-2021/tree/main/code/typescript/todo_helloworld)
+
+Class 4 Videos: Basic Todo App in TypeScript
+
+- [English on YouTube](https://www.youtube.com/watch?v=cVW5chnSyRM&ab_channel=PanacloudCloudAI%2CIoT%2CandBlockchainCourse)
+- [English on Facebook](https://web.facebook.com/fb.anees.ahmed/videos/323990186055017?_rdc=1&_rdr)
+- [Urdu on YouTube](https://www.youtube.com/watch?v=T0FGw7ksYFg&ab_channel=PanacloudUrduCloudAICourse)
+- [Urdu on Facebook](https://web.facebook.com/Ai.SirQasim/videos/4174853202591898?_rdc=1&_rdr)
