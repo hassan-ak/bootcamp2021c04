@@ -6,3 +6,7 @@
 ## Basic Todo App in TypeScript
 
 [TypeScript Presentation for Class 4](https://docs.google.com/presentation/d/1eZxsv6O96GOANxOnREJVolMAqC0OmF4hv5XAloMrQLw/edit)
+
+Reading Material:
+
+- [A simple Todo App in TypeScript](https://github.com/panacloud/bootcamp-2021/tree/main/code/typescript/todo_helloworld)
