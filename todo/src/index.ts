@@ -1,2 +1,4 @@
-console.clear();
-console.log("Hassan's Todo List");
+import { Item } from "./Item";
+
+let item: Item = new Item(1, "First Task", true);
+item.printTask();
