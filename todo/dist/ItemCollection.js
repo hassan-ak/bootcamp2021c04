@@ -12,6 +12,10 @@ class ItemCollection {
         this.nextId++;
         this.items.push(item);
     }
+    taskDone(taskId) {
+        let item = this.items.find((item) => item.taskId == taskId);
+        item.done = true;
+    }
     printAll() {
         this.items.forEach((item) => {
             item.printTask();
@@ -27,7 +31,6 @@ exports.ItemCollection = ItemCollection;
 //     while (this.getTodoById(this.nextId)) {
 //       this.nextId++;
 //     }
-//     return this.nextId;
 //   }
 //   getTodoById(id: number): TodoItem {
 //     return this.todoItems.find((item) => item.id === id);

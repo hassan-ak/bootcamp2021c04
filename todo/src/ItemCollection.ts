@@ -10,6 +10,11 @@ export class ItemCollection {
     this.items.push(item);
   }
 
+  public taskDone(taskId: number): void {
+    let item: Item = this.items.find((item) => item.taskId == taskId);
+    item.done = true;
+  }
+
   public printAll(): void {
     this.items.forEach((item) => {
       item.printTask();
