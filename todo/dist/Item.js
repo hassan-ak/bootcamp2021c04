@@ -6,7 +6,6 @@ class Item {
         this.taskId = taskId;
         this.task = task;
         this.done = done;
-        // Code will be auto genrated
     }
     printTask() {
         console.log(`ID : ${this.taskId}, \t\tTask : ${this.task}, \t\tDone : ${this.done}`);

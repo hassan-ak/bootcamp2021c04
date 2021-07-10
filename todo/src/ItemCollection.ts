@@ -21,23 +21,3 @@ export class ItemCollection {
     });
   }
 }
-
-// export class TodoCollection {
-//   constructor(public userName: string, public todoItems: TodoItem[] = []) {
-//     // no statements required
-//   }
-//   addTodo(task: string): number {
-//     while (this.getTodoById(this.nextId)) {
-//       this.nextId++;
-//     }
-//   }
-//   getTodoById(id: number): TodoItem {
-//     return this.todoItems.find((item) => item.id === id);
-//   }
-//   markComplete(id: number, complete: boolean) {
-//     const todoItem = this.getTodoById(id);
-//     if (todoItem) {
-//       todoItem.complete = complete;
-//     }
-//   }
-// }

@@ -3,9 +3,7 @@ export class Item {
     public taskId: number,
     public task: string,
     public done: boolean = false
-  ) {
-    // Code will be auto genrated
-  }
+  ) {}
 
   public printTask(): void {
     console.log(
