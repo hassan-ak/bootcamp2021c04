@@ -1,9 +1,14 @@
-# bootcamp2021c04 - Building Todo App in Typescript
+# bootcamp2021c04 - Fast Track Review of TypeScript - Building Todo App in Typescript - Basic Todo App in TypeScript
 
 ## Basic Todo App in TypeScript
+- Learn about typescript
+- Create a typescript project
+- run .ts files
+- classes
 
-- [Essential TypeScript 4: From Beginner to Pro: Chapter 1](https://smallpdf.com/shared#st=94a9a751-91d8-446a-a8e4-666f0bfd3c49&fn=Adam+Freeman+-+Essential+TypeScript+4_+From+Beginner+to+Pro.pdf&ct=1622794833554&tl=share-document&rf=link)
-- [Book Source Code](https://github.com/Apress/essential-typescript-4)
+[Essential TypeScript 4: From Beginner to Pro: Chapter 1](https://smallpdf.com/shared#st=94a9a751-91d8-446a-a8e4-666f0bfd3c49&fn=Adam+Freeman+-+Essential+TypeScript+4_+From+Beginner+to+Pro.pdf&ct=1622794833554&tl=share-document&rf=link)
+
+[Book Source Code](https://github.com/Apress/essential-typescript-4)
 
 ### Reading Material
 
